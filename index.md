@@ -82,7 +82,7 @@ layout: default
   <section class="news-section">
     <h2>Recent News</h2>
     <ul class="news-list">
-      <li><strong>[2026.03]</strong> Our paper "CoCoNUTS" has been accepted to ACL 2026 Main Conference!</li>
+      <li><strong>[2026.03]</strong> Our paper "CoCoNUTS: Concentrating on Content while Neglecting Uninformative Textual Styles" has been accepted to ACL 2026 Main Conference!</li>
       <li><strong>[2024.09]</strong> Started my Master's program at ISCAS/UCAS.</li>
     </ul>
   </section>

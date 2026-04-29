@@ -1,5 +1,5 @@
 ---
-title: "CoCoNUTS: Concentrating on Content while Neglecting Uninformative Textual Styles"
+title: "CoCoNUTS: Concentrating on Content while Neglecting Uninformative Textual Styles for AI-Generated Peer Review Detection"
 authors: "Yihan Chen, et al."
 venue: "ACL 2026 Main Conference"
 year: 2026

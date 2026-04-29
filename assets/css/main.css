@@ -101,6 +101,7 @@ a:hover {
   height: 200px;
   border-radius: 50%;
   object-fit: contain;
+  object-position: 40% center;
   background-color: white;
   border: 3px solid var(--border-color);
 }

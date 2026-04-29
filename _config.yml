@@ -1,0 +1,56 @@
+# Site settings
+title: Yihan Chen
+email: chenyihan20241@iscas.ac.cn
+description: >-
+  Master's student at ISCAS/UCAS focusing on Large Language Models (LLMs),
+  Retrieval-Augmented Generation (RAG), and Responsible AI.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Author information
+author:
+  name: Yihan Chen (陈逸涵)
+  position: Master's Student
+  institution: Institute of Software, Chinese Academy of Sciences (ISCAS)
+  university: University of Chinese Academy of Sciences (UCAS)
+  advisor: Prof. Ben He (何苯)
+  email: chenyihan20241@iscas.ac.cn
+
+# Social links
+github_username: Y1hanChen
+scholar_userid: w6z1IDwAAAAJ
+linkedin_username: # your-linkedin-username
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /publications/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
